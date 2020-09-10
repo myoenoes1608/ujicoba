@@ -1,2 +1,2 @@
 # ujicoba
-ini latihan github pertama
+ini latihan github bersama teman-teman
